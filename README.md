@@ -1,2 +1,2 @@
 # hello-world
-My ideas and resources
+This is my public sandbox
